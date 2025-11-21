@@ -1,0 +1,6 @@
+RC Circuit Lab
+Objective: observe charging behavior of capacitor.
+Steps:
+1. Build RC with R=10k, C=10uF
+2. Apply 5V step.
+3. Measure capacitor voltage vs time.

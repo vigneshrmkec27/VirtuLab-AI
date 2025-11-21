@@ -1,0 +1,8 @@
+Hub and Switch Simulation Lab
+Objective: Understand how HUB and SWITCH forward frames.
+
+Devices:
+PC1, PC2, PC3, PC4
+
+Task:
+Send a frame from PC1 to PC3 and observe behavior of HUB and SWITCH.
